@@ -6,6 +6,9 @@
 - CSS
 
 ## Images: 
+![galina-portfolio-image](https://github.com/gkutieva/multiverse-project-portfolio/assets/73370477/d7c40c82-b46b-43c3-9cc5-12f6052e3d43)
+![Screen Shot 2023-07-07 at 10 48 24 AM](https://github.com/gkutieva/multiverse-project-portfolio/assets/73370477/3d863002-2f76-4949-bd31-44da5a274b18)
+
 
 ## Gained Knowledge:
 - Deeper knowledge of CSS
@@ -21,4 +24,4 @@
 - JF 4.4 - Can interpret and implement a given design while remaining compliant with security and maintainability requirements
 
 ## Getting started:
-Click [here]() to browse the portfolio app!
+Click [here](https://sweet-conkies-2cd34e.netlify.app/) to browse the portfolio app!
