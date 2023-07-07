@@ -24,4 +24,4 @@
 - JF 4.4 - Can interpret and implement a given design while remaining compliant with security and maintainability requirements
 
 ## Getting started:
-Click [here](https://sweet-conkies-2cd34e.netlify.app/) to browse the portfolio app!
+Click [here](https://chimerical-profiterole-2bbea0.netlify.app/) to browse the portfolio app!
